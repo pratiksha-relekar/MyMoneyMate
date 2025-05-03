@@ -49,12 +49,7 @@ MyMoneyMate is a beautifully designed Flutter-based personal finance app that he
    ```bash
    flutter run
    ```
-
-
-## 📂 Logo
-
-![logo5](https://github.com/user-attachments/assets/c4a84428-1b2d-4505-b8bc-5cbc026b9bf6)
-
+   
 
 ## 📂 Screenshots
 
