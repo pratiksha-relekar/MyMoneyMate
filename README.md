@@ -57,9 +57,28 @@ MyMoneyMate is a beautifully designed Flutter-based personal finance app that he
 ## 📂 Screenshots
 
 
-![logo4](https://github.com/user-attachments/assets/bdd999b7-496e-4fb8-b402-7772733acc25) | ![WhatsApp Image 2025-05-03 at 16 33 40_8579def9](https://github.com/user-attachments/assets/c5f4ec53-34b2-4190-ba56-566744d99b56) | ![WhatsApp Image 2025-05-03 at 16 33 42_90b40ea1](https://github.com/user-attachments/assets/9d8b1e20-f6fc-4f68-ba58-2e4f4b91fef3)
+<table>
+  <tr>
+    <td><img src="![logo4](https://github.com/user-attachments/assets/bdd999b7-496e-4fb8-b402-7772733acc25)" width="200"/></td>
+    <td><img src="![WhatsApp Image 2025-05-03 at 16 33 40_8579def9](https://github.com/user-attachments/assets/c5f4ec53-34b2-4190-ba56-566744d99b56)" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="![WhatsApp Image 2025-05-03 at 16 33 42_90b40ea1](https://github.com/user-attachments/assets/9d8b1e20-f6fc-4f68-ba58-2e4f4b91fef3)" width="200"/></td>
+    <td><img src="![WhatsApp Image 2025-05-03 at 16 33 41_72265c7f](https://github.com/user-attachments/assets/9b362027-88c0-4a4e-baf0-d89ba9db60e6)" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/ss5.png" width="200"/></td>
+    <td><img src="screenshots/ss6.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/ss7.png" width="200"/></td>
+    <td><img src="screenshots/ss8.png" width="200"/></td>
+  </tr>
+</table>
 
-![WhatsApp Image 2025-05-03 at 16 33 41_72265c7f](https://github.com/user-attachments/assets/9b362027-88c0-4a4e-baf0-d89ba9db60e6)
+
+
+
 
 ![WhatsApp Image 2025-05-03 at 16 33 41_009fc7f0](https://github.com/user-attachments/assets/54a0e8a2-f3ef-4293-9283-a5df30a96b44)
 
